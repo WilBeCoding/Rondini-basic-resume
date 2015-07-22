@@ -1,0 +1,95 @@
+#heading {
+	/*background-image: url("file:/Users/Rondini/desktop/resume/img/IGotYou.png");*/
+	text-align: center;
+	font-size: 75px;
+}
+
+body {
+	/*Enable this background image after putting the body text in boxes*/
+	/*background-image: url("file:/Users/Rondini/desktop/resume/img/IGotYou.png");}*/
+  background-color: white;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+h1, h2 {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+#heading {
+  font-size: 4em;
+  color: white;
+}
+
+.lead {
+  font-style: italic;
+}
+
+.container {
+  padding: 50px;
+  max-width: 800px;
+  background-color: black;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.lead {
+	text-align: center;
+}
+
+.deets {
+	text-align: center;
+}
+
+.deets ul {
+  list-style-type: none;
+}
+
+.skillset h2 {
+	text-align: center;
+}
+
+.gif {
+
+	max-width: 100%;
+	height: 100%;
+	left: 0px;
+	right: 0px;
+}
+
+
+#myGif {
+	width:50%;
+	height: 25%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								/*PLAN OF ACTION*/
+
+/*I want to take this pattern I downloaded and make it my background 
+while putting the body of the page in a box to enhance readability/make it legible
+Should probably start with the body box. Do I do that via padding? I did this on my
+other page. You fool.*/
+
